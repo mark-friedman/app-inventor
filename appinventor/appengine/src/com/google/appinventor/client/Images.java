@@ -258,6 +258,12 @@ public interface Images extends Resources {
   ImageResource ball();
 
   /**
+   * Designer palette item: NearField Component
+   */
+  @Source("com/google/appinventor/images/nearField.png")
+  ImageResource nearField();
+
+  /**
    * Designer palette item: Notifier
    */
   @Source("com/google/appinventor/images/notifier.png")

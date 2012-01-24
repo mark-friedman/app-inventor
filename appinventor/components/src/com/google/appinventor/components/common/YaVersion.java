@@ -452,5 +452,7 @@ public class YaVersion {
   // For WEBVIEWER_COMPONENT_VERSION 2:
   // - The CanGoForward and CanGoBack methods were added
   public static final int WEBVIEWER_COMPONENT_VERSION = 2;
+  
+  public static final int NEARFIELD_COMPONENT_VERSION = 1;
 
 }
