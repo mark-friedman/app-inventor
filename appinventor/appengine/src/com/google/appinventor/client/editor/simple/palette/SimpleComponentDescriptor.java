@@ -86,6 +86,7 @@ public final class SimpleComponentDescriptor {
     bundledImages.put("images/fusiontables.png", images.fusiontables());
     bundledImages.put("images/gameClient.png", images.gameclient());
     bundledImages.put("images/locationSensor.png", images.locationSensor());
+    bundledImages.put("images/nearField.png", images.nearField());
     bundledImages.put("images/notifier.png", images.notifier());
     bundledImages.put("images/legoMindstormsNxt.png", images.legoMindstormsNxt());
     bundledImages.put("images/orientationsensor.png", images.orientationsensor());
